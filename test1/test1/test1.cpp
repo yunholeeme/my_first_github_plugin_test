@@ -6,4 +6,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
+
+    std::cout << "I love leehyerim" << std::endl;
 }
